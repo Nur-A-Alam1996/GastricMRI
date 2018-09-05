@@ -1,6 +1,7 @@
 # GastricMRI
 Source code for Contrast enhanced magnetic resonance imaging of gastric emptying and motility in rats
 Version 1.0
+
 Authors: 
 Kun-Han Lu, School of Electrical and Computer Engineering, Purdue University
 Jiayue Cao, Weldon School of Biomedical Engineering, Purdue University
