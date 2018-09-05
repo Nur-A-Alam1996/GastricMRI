@@ -1,5 +1,6 @@
 # GastricMRI
 Source code for Contrast enhanced magnetic resonance imaging of gastric emptying and motility in rats  
+
 Version 1.0  
 
 Authors:
@@ -25,7 +26,7 @@ source_code
 example_data  
 
 Supporting Docs:  
-ReadMe.pdf  
+README.pdf  
 
 Archival Info:  
 README  
