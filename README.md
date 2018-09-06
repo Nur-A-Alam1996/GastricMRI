@@ -3,7 +3,7 @@ Source code for Contrast enhanced magnetic resonance imaging of gastric emptying
 
 Version 1.0  
 
-Authors:
+Authors:  
 Kun-Han Lu, School of Electrical and Computer Engineering, Purdue University  
 Jiayue Cao, Weldon School of Biomedical Engineering, Purdue University  
 Steven Oleson, Weldon School of Biomedical Engineering, Purdue University  
