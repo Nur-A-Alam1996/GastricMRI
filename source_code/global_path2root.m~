@@ -1,0 +1,8 @@
+function path2root = global_path2root
+% path to root folder that contains the file
+
+path2root.volume = '/home/libilab2/a/users/khlu/project/SPARC/Data_Sharing/Source_code_animal/example_data';
+
+path2root.motility = '/home/libilab2/a/users/khlu/project/SPARC/Data_Sharing/Source_code_animal/example_data';
+
+end
